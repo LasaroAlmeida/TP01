@@ -1,6 +1,6 @@
 # TP01 - Servidor Multi-Thread
 ## Redes de Computadores
-Aplicação cliente e servidor.<br>
+Aplicações cliente e servidor.<br>
 <ol>
   <li>Para executar as aplicações em ambientes windows, use:
     <br>
